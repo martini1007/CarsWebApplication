@@ -1,0 +1,37 @@
+.main-container {
+    padding: auto;
+}
+
+.list{
+    padding: auto;
+    margin-left: 5%;
+}
+
+.list-object {
+    padding: auto;
+}
+
+.button-list {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #cf6b63;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 1.2rem;
+    margin: 10px;
+    border: 2px solid black;
+}
+.button-list-delete{
+    border-radius: 25px;
+    padding: 10px 20px;
+    background-color: #c62f2d;
+    color: white;
+    margin-left: 50px;
+    font-size: 1.2rem;
+    border: 2px solid black;
+}
+
+.h-object {
+    margin-left: 5%;
+}

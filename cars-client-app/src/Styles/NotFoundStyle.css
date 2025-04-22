@@ -1,0 +1,10 @@
+.return-button {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #431D32;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 25px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}

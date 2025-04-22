@@ -1,0 +1,20 @@
+.sidebar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    position: fixed;
+    bottom: 0; 
+    left: 0;
+    width: 100%; 
+    background-color: blueviolet;
+    padding: 10px 0; 
+}
+
+.button-menu {
+    border-radius: 25px;
+    padding: 10px 20px;
+    background-color: rgb(231, 34, 182);
+    font-size: 1.2rem;
+    border: 2px solid black;
+    margin: 0 10px; 
+}
