@@ -1,0 +1,45 @@
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.deps.json
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.pdb
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Domain.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Domain.pdb
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.csproj.AssemblyReference.cache
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.AssemblyInfoInputs.cache
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.AssemblyInfo.cs
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Inf.3A286ABF.Up2Date
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\refint\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.pdb
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Zadanie 24-10-08\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\ref\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.deps.json
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.pdb
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Domain.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Domain.pdb
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.csproj.AssemblyReference.cache
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.AssemblyInfoInputs.cache
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.AssemblyInfo.cs
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Inf.3A286ABF.Up2Date
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\refint\Cars.Infrastructure.dll
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.pdb
+F:\Studia\Inżynierka\Semestr 5\Aplikacje sieciowe i webowe\Moja apka\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\ref\Cars.Infrastructure.dll
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.deps.json
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.dll
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Infrastructure.pdb
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Domain.dll
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\bin\Debug\net8.0\Cars.Domain.pdb
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.AssemblyInfo.cs
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Inf.3A286ABF.Up2Date
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.dll
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\refint\Cars.Infrastructure.dll
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\Cars.Infrastructure.pdb
+C:\Users\marci\Downloads\CarsWebApplication2\CarsWebApplication\Cars.Infrastructure\obj\Debug\net8.0\ref\Cars.Infrastructure.dll
